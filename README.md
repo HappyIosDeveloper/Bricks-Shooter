@@ -1,4 +1,4 @@
-# Brichs Shooter 
+# Bricks Shooter 
 
 ### A basic Shooter game which is written in Swift.
 
