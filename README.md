@@ -1,6 +1,6 @@
 # Bricks Shooter 
 
-### A basic Shooter game which is written in Swift.
+### A basic bricks shooter game which is written in Swift.
 
 
 <img src="Previews/preview.jpg" alt="Image 1"> <img src="Previews/preview.gif" alt="Image 2">
